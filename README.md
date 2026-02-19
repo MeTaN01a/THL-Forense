@@ -1,6 +1,6 @@
-# THL-Forense
-Operación BlueMoon
-Antecedentes
+# Operación BlueMoon
+<img width="1536" height="1024" alt="BlueMoon" src="https://github.com/user-attachments/assets/213bb6f2-b939-4502-8435-ebb9eebe398c" />
+
 Trabajas como analista en un Centro de Operaciones de Seguridad (SOC).
 Alguien contacta a tu equipo para informar que un compañero de trabajo ha descargado un archivo sospechoso después de buscar Google Authenticator. 
 La persona que llama proporciona información similar a las publicaciones en redes sociales en:
