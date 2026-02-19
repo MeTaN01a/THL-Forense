@@ -9,3 +9,5 @@ La persona que llama proporciona información similar a las publicaciones en red
 Basándose en la información inicial de la persona que llama, confirma que hubo una infección. Recupera una captura de paquetes (pcap) del tráfico asociado. 
 Al revisar el tráfico, encuentra varios indicadores que coinciden con los detalles de una página de Github a la que hace referencia en las publicaciones de redes sociales anteriores. 
 Después de confirmar que se produjo una infección, comienza a escribir un informe de incidentes.
+
+<img width="920" height="476" alt="image" src="https://github.com/user-attachments/assets/99d1b554-9fa7-4cfd-8bc7-600c39de0281" />
