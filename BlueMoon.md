@@ -17,6 +17,7 @@ Alguien rastreó la página falsa de Google Authenticator hasta el anuncio visto
 
 <img width="920" height="476" alt="image" src="https://github.com/user-attachments/assets/99d1b554-9fa7-4cfd-8bc7-600c39de0281" />
 
+
 El Pcap
 <img width="919" height="424" alt="image" src="https://github.com/user-attachments/assets/f2a957ef-ae6f-4139-982a-17abf75dfc96" />
 
